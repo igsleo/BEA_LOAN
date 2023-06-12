@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T08:23:55.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.3.8" etag="3Yn-n9ePdurFD5sLWqt2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T08:45:24.764Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="O_SCInPMVO-EfBZGLjuX" version="21.3.8" type="github">
   <diagram name="第 1 页" id="v5ijQJ9O8KyiVbOj3_VB">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="viBOPc4j7fQQnpgqt4LT-1" value="upms" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="180" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="viBOPc4j7fQQnpgqt4LT-2" value="user-service" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="180" width="120" height="260" as="geometry" />
+        </mxCell>
+        <mxCell id="viBOPc4j7fQQnpgqt4LT-3" value="role" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="180" width="120" height="260" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
